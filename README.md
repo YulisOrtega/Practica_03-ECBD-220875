@@ -1,4 +1,4 @@
-# ECBD_Practica04_220875
+![](./img/TI.png) # ECBD_Practica03_220875
 
 **UNIVERSIDAD TECNOLÓGICA DE XICOTEPEC DE JUÁREZ**  
 **Materia:** Extracción de Conocimiento en Bases de Datos  
@@ -56,3 +56,14 @@ Se realizaron pruebas desde la consola para verificar que las frases de activaci
 ---
 
 ## 📸 Evidencias
+### 🔧 Creación del Intent
+![Intent](./img/Intent.png)
+
+### 🔧 Utterances
+![Utterance](./img/utterances.png)
+
+### 💻 Código fuente
+![Code](./img/code.png)
+
+### 🧪 Pruebas realizadas
+![Test](./img/pruebas.png)
