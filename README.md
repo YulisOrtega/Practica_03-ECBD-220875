@@ -17,7 +17,7 @@ En esta actividad se retomó una skill previamente creada en Alexa y se actualiz
 
 ### ✨ Inclusión del intent para las preguntas
 
-Se añadieron el intent: PreguntasIntent, la cual responde lo siguiente:
+Se añadió el intent: PreguntasIntent, la cual responde lo siguiente:
 
 - **¿Quién creo la aplicación**
 - **¿Qué carrera estudia?**
