@@ -1,10 +1,10 @@
-![](./img/TI.png)  
+![](./img/TI.png)                                          ![](./img/utxj.png)  
 # ECBD_Practica03_220875
 
 **UNIVERSIDAD TECNOLÓGICA DE XICOTEPEC DE JUÁREZ**  
 **Materia:** Extracción de Conocimiento en Bases de Datos  
 **Matrícula:** 220875 
-**Nombre de la práctica:** Interacción por comandos de voz con Alexa
+**Nombre de la práctica:** Funcionalidades por comandos de voz con Alexa
 
 ---
 
