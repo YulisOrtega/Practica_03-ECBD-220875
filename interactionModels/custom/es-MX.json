@@ -1,0 +1,50 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "SaludoIntent",
+          "samples": [
+            "abre saludo yulissa",
+            "iniciar",
+            "inicia",
+            "abre mi primera skill",
+            "hola"
+          ]
+        },
+        {
+          "slots": [
+            {
+              "name": "pregunta",
+              "type": "AMAZON.SearchQuery"
+            }
+          ],
+          "name": "PreguntasIntent",
+          "samples": [
+            "cuentame {pregunta}",
+            "dime {pregunta}"
+          ]
+        }
+      ],
+      "types": [],
+      "invocationName": "saludo yulissa"
+    }
+  }
+}
