@@ -1,3 +1,58 @@
-Materia: Extracción de Conocimiento en Bases de Datos
-Matricula: 220031
-Practica 04: Funcionalidades por Comandos de Vos
+# ECBD_Practica04_220875
+
+**UNIVERSIDAD TECNOLÓGICA DE XICOTEPEC DE JUÁREZ**  
+**Materia:** Extracción de Conocimiento en Bases de Datos  
+**Matrícula:** 220875 
+**Nombre de la práctica:** Interacción por comandos de voz con Alexa
+
+---
+
+## 📝 Resumen de la práctica
+
+En esta actividad se retomó una skill previamente creada en Alexa y se actualizó para incluir nuevas funcionalidades. El objetivo fue permitir que el asistente respondiera preguntas personales relacionadas con el desarrollador. Para lograrlo, se utilizaron las herramientas del Alexa Skills Kit (ASK), añadiendo nuevos intents y respuestas estáticas que fueron programadas, desplegadas y probadas.
+
+---
+
+## 🛠️ Funcionalidades implementadas
+
+### ✨ Inclusión del intent para las preguntas
+
+Se añadieron el intent: PreguntasIntent, la cual responde lo siguiente:
+
+- **¿Quién creo la aplicación**
+- **¿Qué carrera estudia?**
+- **¿Cuál es su color favorito?**
+- **¿Cuál es su cantante favorito?**
+
+---
+
+### 🗣️ Frases de activación (Utterances)
+
+- **cuentame** {pregunta}
+
+---
+
+### 💬 Respuestas programadas
+
+Cada intent devuelve una respuesta fija y específica. Ejemplos:
+
+- "Fui creado por un estudiante de la Universidad Tecnológica de Xicotepec."
+- "Mi color favorito es el azul."
+- "Estoy cursando la carrera de Desarrollo de Software Multiplataforma."
+- "Me gusta el rock en español."
+
+---
+
+### ☁️ Despliegue en consola de Alexa
+
+La skill fue desplegada usando la [Alexa Developer Console](https://developer.amazon.com/alexa/console/ask), asegurando que estuviera lista para recibir comandos y responder correctamente.
+
+---
+
+### ✅ Pruebas funcionales
+
+Se realizaron pruebas desde la consola para verificar que las frases de activación funcionaran y que Alexa respondiera adecuadamente a cada una.
+
+---
+
+## 📸 Evidencias
