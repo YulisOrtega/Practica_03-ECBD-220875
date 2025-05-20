@@ -1,4 +1,5 @@
-![](./img/TI.png) # ECBD_Practica03_220875
+![](./img/TI.png)  
+# ECBD_Practica03_220875
 
 **UNIVERSIDAD TECNOLÓGICA DE XICOTEPEC DE JUÁREZ**  
 **Materia:** Extracción de Conocimiento en Bases de Datos  
@@ -36,10 +37,10 @@ Se añadió el intent: PreguntasIntent, la cual responde lo siguiente:
 
 Cada intent devuelve una respuesta fija y específica. Ejemplos:
 
-- "Fui creado por un estudiante de la Universidad Tecnológica de Xicotepec."
-- "Mi color favorito es el azul."
-- "Estoy cursando la carrera de Desarrollo de Software Multiplataforma."
-- "Me gusta el rock en español."
+- "Esta skill fue creada por Yulissa Ortega Cuevas"
+- "Estudia Ingenieria en Desarrollo y Gestión de Software."
+- "Su color favorito es el verde."
+- "Tyler Joseph, vocalista de Twenty one pilots."
 
 ---
 
