@@ -1,5 +1,5 @@
-![](./img/utxj.png)             
-## ECBD_Practica03_220875  ![](./img/TI.png)     
+![](./img/utxj.png)             ![](./img/TI.png) 
+## ECBD_Practica03_220875       
 **UNIVERSIDAD TECNOLÓGICA DE XICOTEPEC DE JUÁREZ**  
 **Materia:** Extracción de Conocimiento en Bases de Datos  
 **Matrícula:** 220875 
